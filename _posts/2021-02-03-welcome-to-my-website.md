@@ -1,5 +1,5 @@
 ---
-layout: post.html
+layout: post
 title: Welcome to My Website!
 subtitle: ''
 gh-repo: ''
