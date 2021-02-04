@@ -25,4 +25,5 @@ fields:
   label: comments
 pages:
 - _posts/2021-02-04-second-post.md
+- _posts/second-post.md
 - my-twine-games.md
