@@ -8,3 +8,4 @@ tags: []
 comments: false
 
 ---
+![](/uploads/strawberry 2.jpg)![](/uploads/strawberry.jpg)
