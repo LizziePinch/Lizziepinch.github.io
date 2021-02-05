@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Second Post '
+title: 'Colouring the Beatles '
 subtitle: One of my favourite bands
 gh-repo: ''
 gh-badge: []
