@@ -9,6 +9,7 @@ tags:
 - Beatles
 comments: false
 cover-img: "/uploads/strawberry.jpg"
+thumbnail-img: "/uploads/strawberry 2.jpg"
 
 ---
 ![](/uploads/strawberry 2.jpg)![](/uploads/strawberry.jpg)
