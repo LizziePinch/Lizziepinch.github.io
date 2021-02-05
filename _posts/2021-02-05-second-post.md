@@ -8,6 +8,7 @@ tags:
 - Music
 - Beatles
 comments: false
+cover-img: "/uploads/strawberry.jpg"
 
 ---
 ![](/uploads/strawberry 2.jpg)![](/uploads/strawberry.jpg)
