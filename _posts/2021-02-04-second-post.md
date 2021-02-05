@@ -1,10 +1,11 @@
 ---
 layout: post
-title: First Post
-subtitle: And What Happened Next?
+title: And What Happened Next?
+subtitle: A story for you all
 gh-repo: ''
 gh-badge: []
-tags: []
+tags:
+- Stories
 comments: false
 
 ---
