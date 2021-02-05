@@ -29,6 +29,11 @@ fields:
     maxSize: 64
   label: cover-img
   description: This image will appear on the front page with your post
+- name: thumbnail-img
+  type: file
+  config:
+    maxSize: 64
+  label: thumbnail-img
 pages:
 - _posts/2021-02-04-second-post.md
 - _posts/2021-02-05-second-post.md
