@@ -11,7 +11,7 @@ cover-img: ''
 thumbnail-img: ''
 
 ---
-**Hello! Remember** [**a few days ago**](\\2021-02-04-second-post "a few days ago") **I revealed a story I'd written and finished on a cliffhanger? Well all will be revealed... right now! Oh, and if you need reminding of what what happened before, a 6 year old named Leo came round to a 10 year old boy called Derek's house and set the radiator on fire.**
+**Hello! Remember** [**a few days ago**](\\bizzles.me\\2021-02-04-second-post "a few days ago") **I revealed a story I'd written and finished on a cliffhanger? Well all will be revealed... right now! Oh, and if you need reminding of what what happened before, a 6 year old named Leo came round to a 10 year old boy called Derek's house and set the radiator on fire.**
 
 Everyone evacuated the building, as the fire was spreading fast. Kelly called 999, and soon after they could hear the siren of the fire engine. Leo adored it, because he wanted to be a fireman when he grew up, and I think that that’s one of the world’s most dangerous jobs to have, but not Leo. As soon as it came into Leo’s view, he was screaming his head off in excitement.
 
