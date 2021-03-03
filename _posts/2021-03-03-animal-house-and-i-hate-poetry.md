@@ -10,7 +10,7 @@ cover-img: ''
 thumbnail-img: ''
 
 ---
-In my previous home-schooling zoom lessons, I have been doing some poetry inspired by Joshua Seigal. Enjoy!
+In my previous home-schooling zoom lessons, I have been doing some poetry inspired by [Joshua Seigal](https://www.joshuaseigal.co.uk/). Enjoy!
 
 **Animal House**
 
