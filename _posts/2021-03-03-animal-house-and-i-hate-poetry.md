@@ -12,8 +12,6 @@ thumbnail-img: ''
 ---
 In my previous home-schooling zoom lessons, I have been doing some poetry inspired by [Joshua Seigal](https://www.joshuaseigal.co.uk/). Enjoy!
 
- 
-
 **Animal House**
 
 In the living room, a laziness of sloths,
@@ -24,7 +22,7 @@ And a troop of kangaroos, wearing my shoes,
 
 Each have a joey in their pouch.
 
- 
+\-x-
 
 Unfortunately, there’s a hole in the TV,
 
@@ -34,7 +32,7 @@ And an ostentation of peacocks,
 
 Is more beautiful than anything I’ve seen.
 
- 
+\-x-
 
 My tummy seems to be rumbling,
 
@@ -44,7 +42,7 @@ I saw a pride of lions sneak away,
 
 Tearing on some meat.
 
- 
+\-x-
 
 A shiver of sharks whirl around,
 
@@ -54,7 +52,7 @@ And a mob of meerkats, share a KitKat,
 
 A truly unusual scene.
 
- 
+\-x-
 
 In the dining room, I fill with gloom,
 
@@ -64,7 +62,7 @@ And a tribe of monkeys, riding a paddling of duckies,
 
 Burn, in the carpet, a hole.
 
- 
+\-x-
 
 While everything is doing all that,
 
@@ -74,7 +72,7 @@ And with my mouth open wide, I have to hide,
 
 When out comes a whole tribe of them.
 
- 
+\-x-
 
 Upstairs is havoc, and another pandemonium of parrots,
 
@@ -84,7 +82,7 @@ A boogle of weasels splatter my dad’s easel,
 
 And their picture doesn’t look good at all.
 
- 
+\-x-
 
 In my room there’s an ambush of tigers,
 
@@ -94,7 +92,7 @@ Amongst my pile of records, a leap of leopards,
 
 Jump out and do a loud ROAR!
 
- 
+\-x-
 
 Don’t get me started on the bathroom,
 
@@ -104,7 +102,7 @@ And I laugh, when in the bath,
 
 A pod of dolphins go, “Squeak whistle click!”
 
- 
+\-x-
 
 In the loo, which I think is gross, don’t you?
 
@@ -114,7 +112,7 @@ And in the toiletry bag, now frayed like a rag,
 
 I see a mischief of mice nibbling some cheese.
 
- 
+\-x-
 
 I’m not sure how any of this happened,
 
@@ -124,7 +122,7 @@ Even now, I’m being eavesdropped on,
 
 By a murder of crows.
 
- 
+\-x-
 
 I don’t know what to say,
 
@@ -134,7 +132,7 @@ But none of these collective nouns are made up,
 
 They’re true!
 
- 
+***
 
 **I Hate Poetry**
 
@@ -148,7 +146,7 @@ My fingers tremble like a tumble-dryer,
 
 And my brain melts like an ice-cream on a hot day.
 
- 
+\-x-
 
 I don’t like metaphors.
 
@@ -160,7 +158,7 @@ My hands turn to stone
 
 And my stomach spins around a hundred times.
 
- 
+\-x-
 
 I don’t like personification.
 
@@ -172,7 +170,7 @@ My eyes do pirouettes
 
 And my brain runs away.
 
- 
+\-x-
 
 I don’t like alliteration,
 
@@ -184,7 +182,7 @@ A wild whirlwind of wacky words,
 
 And an abominable ball-pit of bedlam.
 
- 
+\-x-
 
 I don’t like onomatopoeia.
 
@@ -196,7 +194,7 @@ KABOOM, ROAR, CRASH!
 
 POW, SMASH! WHAM!
 
- 
+\-x-
 
 I don’t like hyperbole,
 
@@ -208,7 +206,7 @@ I must’ve told you a BILLION times,
 
 It’s the WORST THING EVER!
 
- 
+\-x-
 
 I don’t like idiom.
 
@@ -220,7 +218,7 @@ It adds insult to injury,
 
 Maybe I should just call it a day?
 
- 
+\-x-
 
 I don’t like assonance.
 
