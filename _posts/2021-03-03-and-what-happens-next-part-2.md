@@ -4,7 +4,8 @@ title: And What Happens Next? Part 2
 subtitle: What's going to happen?!
 gh-repo: ''
 gh-badge: []
-tags: []
+tags:
+- stories
 comments: false
 cover-img: ''
 thumbnail-img: ''

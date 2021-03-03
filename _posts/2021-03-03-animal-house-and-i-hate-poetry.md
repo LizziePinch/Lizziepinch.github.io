@@ -4,7 +4,8 @@ title: Animal House and I Hate Poetry
 subtitle: Some poems inspired by Joshua Seigal
 gh-repo: ''
 gh-badge: []
-tags: []
+tags:
+- poetry
 comments: false
 cover-img: ''
 thumbnail-img: ''
