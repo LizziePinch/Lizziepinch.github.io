@@ -21,3 +21,9 @@ Thank you. I'm glad you enjoyed it. And in case you didn't know, haikus are Japa
 Oh, and one more thing:
 
 # HAPPY EASTER!
+
+The Easter Bunny
+
+Has sent us some tasty eggs.
+
+And has hidden some!
