@@ -17,3 +17,5 @@ Fortunately, I can look forward to seeing my friend tomorrow at her amazing hous
 Back to my friends house, I'll tell you more about that, but trust me, if my neighbours come in again, it will be the death of them. Ahem. My friend's awesome home is a farm, so it has all sorts of animals like geese ducks, chickens and alpacas. Yep, alpacas! And she has lots of gardens to play in. Unfortunately she has lots of sisters as well. Well, only two but they are annoying, but they're only in year one and three so they have an excuse. I've kind of got used to their antics, and they are annoying in a lovable kind of way, and one of them has a boyfriend (they got together on their first day of school- bleugh!) and the other has nearly 6000000.
 
 My friend also has a pond, and not just a small botanic koi pool.Her fishpond is big enough to go kayaking, and I'll tell you what: it's really fun! Although the first time I gave it a go, I got very wet!
+
+Well that's all I can think of for now! Enjoy a life of freedom!
