@@ -2,8 +2,7 @@
 layout: post
 title: Animal House and I Hate Poetry
 subtitle: Some poems inspired by Joshua Seigal
-tags:
-- poetry
+tags: []
 comments: false
 
 ---
