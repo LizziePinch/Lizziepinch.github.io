@@ -2,7 +2,8 @@
 layout: post
 title: Some Short Haikus
 subtitle: But all haikus are short? Whatever.
-tags: []
+tags:
+- Poetry
 comments: false
 
 ---
