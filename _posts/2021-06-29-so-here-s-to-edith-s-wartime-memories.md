@@ -11,7 +11,7 @@ I'm sure most of you had a Year 6 end of term production at the end of the year.
 * Granny, a crazy old lady with horrible soup.
 * Adult 7, sitting in the shelter.
 * Jiving Girl, a sassy girl, fascinated by the "hot" GIs
-* Captain of the army. 
+* Captain of the army.
 
 The scenes are:
 
@@ -21,16 +21,16 @@ The scenes are:
  4. Scene 4: Adults are sitting in the local bomb shelter
  5. Scene 5: The women are working on the farms and in factories
  6. Scene 6: Dad's army are being comically clumsy
- 7.  Scene 7: The sassy girls being fascinated by the GIs
- 8.  Scene 8: The captain and soldiers are taking a fighting break
- 9.  Scene 9: the Colemans are waiting for Edith's older brother to come home
-10.  Scene 10. VE day!
+ 7. Scene 7: The sassy girls being fascinated by the GIs
+ 8. Scene 8: The captain and soldiers are taking a fighting break
+ 9. Scene 9: the Colemans are waiting for Edith's older brother to come home
+10. Scene 10. VE day!
 
 Well, that's the basic summary of it all, and by the way, me and my friends have written a toilet song! Here are the lyrics:
 
 **It's a toilet! By Lizzie, Jasmine and Keona**
 
-I did a really big poo
+I did a really smelly poo
 
 And flushed it down the loo,
 
@@ -48,9 +48,11 @@ It's a toilet!
 
 It's a toilet!
 
+It's a toilet!
+
 Down it goes!
 
- It's a toilet!
+It's a toilet!
 
 It's a toilet!
 
@@ -78,7 +80,7 @@ It's a toilet!
 
 Down it goes!
 
- It's a toilet!
+It's a toilet!
 
 It's a toilet!
 
@@ -106,7 +108,7 @@ It's a toilet!
 
 Down it goes!
 
- It's a toilet!
+It's a toilet!
 
 It's a toilet!
 
